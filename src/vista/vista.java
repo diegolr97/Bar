@@ -90,19 +90,18 @@ public class vista extends javax.swing.JFrame {
         jPanel2.add(btnAtrasmenu, new org.netbeans.lib.awtextra.AbsoluteConstraints(670, 370, -1, -1));
 
         btnRecaudaciones.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagenes/dollars.png"))); // NOI18N
-        btnRecaudaciones.setText("jButton5");
-        jPanel2.add(btnRecaudaciones, new org.netbeans.lib.awtextra.AbsoluteConstraints(490, 160, 110, 100));
+        jPanel2.add(btnRecaudaciones, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 90, 180, 170));
 
         btnBares.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagenes/restaurant.png"))); // NOI18N
-        jPanel2.add(btnBares, new org.netbeans.lib.awtextra.AbsoluteConstraints(240, 160, 110, 100));
+        jPanel2.add(btnBares, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 90, 200, 170));
 
         jLabel8.setFont(new java.awt.Font("Tahoma", 1, 11)); // NOI18N
         jLabel8.setText("RECAUDACIONES");
-        jPanel2.add(jLabel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(500, 280, -1, -1));
+        jPanel2.add(jLabel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(460, 280, -1, -1));
 
         jLabel7.setFont(new java.awt.Font("Tahoma", 1, 11)); // NOI18N
         jLabel7.setText("BARES");
-        jPanel2.add(jLabel7, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 280, -1, -1));
+        jPanel2.add(jLabel7, new org.netbeans.lib.awtextra.AbsoluteConstraints(230, 280, -1, -1));
 
         jLabel14.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagenes/menu.jpg"))); // NOI18N
         jLabel14.setText("jLabel14");
